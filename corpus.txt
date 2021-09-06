@@ -1,0 +1,682 @@
+Tesla, Inc.
+Ir a la navegación
+Ir a la búsqueda
+Tesla, Inc.
+Tesla Motors.svg
+Tesla Visit 3 (9267529364).jpg
+Sede central
+Tipo	Empresa cotizada en bolsa
+Símbolo bursátil	NASDAQ: TSLA
+ISIN	US88160R1014
+Industria	Automoción
+Almacenamiento eléctrico
+Producción de energía
+Forma legal	empresa de capital abierto
+Fundación	1 de julio de 2003
+Fundador	Disputado, ver texto
+Nombres anteriores	Tesla Motors, Inc. (2003-2017)
+Sede	Bandera de Estados Unidos Palo Alto, California,
+Estados Unidos
+Presidente	Elon Musk
+CEO	Elon Musk
+CTO	Drew Baglino
+Marcas	Tesla
+Productos	Tesla Roadster
+Tesla Model S
+Tesla Model 3
+Tesla Model X
+Tesla Model Y
+Tesla Roadster 2020
+Tesla Semi
+Tesla Cybertruck
+Tesla Cyberquad
+Tesla Powerwall
+Ingresos	Crecimiento $ 24 578 millones (2019)
+Beneficio de explotación	Crecimiento $ -862 millones (2019)
+Beneficio neto	Crecimiento $ 7 384 millones (2019)
+Activos	Crecimiento $ 34 309 millones (2019)
+Capital social	Crecimiento $ 6 618 millones (2019)
+Propietario	Elon Musk (20.8%)1​
+Empleados	48 016 (2019)2​
+Miembro de	LOT Network
+Filiales	SolarCity
+Grohmann Engineering
+Coordenadas	37°25′45″N 122°08′17″O
+Sitio web	Tesla Motors
+[editar datos en Wikidata]
+
+Tesla (anteriormente, Tesla Motors, Inc.)3​ es una empresa estadounidense con sede en Palo Alto, California, y liderada por Elon Musk, que diseña, fabrica y vende automóviles eléctricos, componentes para la propulsión de vehículos eléctricos y baterías domésticas.4​
+
+Fue fundada en julio de 2003 por los ingenieros Martin Eberhard y Marc Tarpenning como Tesla Motors. El nombre de la empresa es un tributo al inventor e ingeniero eléctrico Nikola Tesla.5​ Los siguientes tres empleados fueron Ian Wright, Elon Musk y JB Straubel, quienes fueron nombrados co-fundadores de la compañía.6​ Elon Musk ya había fundado varias empresas, era millonario y había tenido la idea de desarrollar baterías para el almacenamiento de energía renovable. Después de reunirse con Eberhard y Wright, Musk invirtió 6.5 millones de dólares en la compañía. Por lo que quedó como presidente de la empresa,7​ Martin Eberhard como CEO y JB Straubel como CTO.
+Índice
+
+    1 Vista general
+    2 Plan maestro
+    3 Historia y financiación
+        3.1 Evolución en bolsa
+        3.2 Resultados financieros
+    4 Estrategia de marca
+    5 Productos
+        5.1 Modelos descatalogados
+            5.1.1 Tesla Roadster
+            5.1.2 Tesla Roadster Sport
+        5.2 Modelos en producción
+            5.2.1 Tesla Model S
+            5.2.2 Tesla Model X
+            5.2.3 Tesla Model 3
+            5.2.4 Tesla Model Y
+        5.3 Próximos modelos
+            5.3.1 Tesla Roadster (Segunda Generación)
+            5.3.2 Tesla Semi
+            5.3.3 Tesla Cybertruck
+            5.3.4 Tesla Cyberquad
+        5.4 Sistemas de almacenamiento
+            5.4.1 Powerwall y Powerpack
+        5.5 Solar Roof
+    6 Colaboraciones con otros fabricantes
+        6.1 Mercedes Clase A E-Cell
+        6.2 Mercedes Clase B EV
+        6.3 Daimler Smart
+        6.4 Toyota RAV4 EV
+        6.5 Freightliner Custom Chassis
+    7 Sede
+    8 Fábrica
+    9 Gigafábrica 1 de Tesla
+        9.1 Descripción
+        9.2 Ubicación
+    10 Gigafábrica 2 de Tesla
+    11 Gigafábrica 3 de Tesla
+    12 Gigafábrica 4 de Tesla
+    13 Gigafábrica 5 de Tesla
+    14 Centros de servicio
+    15 Tecnología de recarga
+        15.1 Supercargadores
+        15.2 Intercambio de baterías
+    16 Patentes
+    17 Socios
+        17.1 Daimler AG
+        17.2 AABAR AD
+        17.3 Toyota
+        17.4 Panasonic
+    18 Conflictos
+        18.1 Fisker Automotive
+        18.2 Magna International
+        18.3 Fundadores de Tesla Motors
+        18.4 Top Gear
+    19 Véase también
+    20 Referencias
+    21 Enlaces externos
+
+Vista general
+
+El núcleo de la empresa está en la ingeniería del sistema de propulsión del vehículo eléctrico que incluye: paquete de baterías, motor, electrónica de potencia y software de control que permite que todos los componentes formen un sistema. El diseño modular permite reutilizar componentes en diferentes modelos de Tesla y de otros fabricantes. El sistema es muy compacto y contiene muchas menos piezas móviles que un motor térmico.8​ Tesla Motors usa motores de inducción de tres fases que incorporan un rotor de cobre y unos devanados de cobre optimizados para reducir la resistencia y la pérdida de energía. Tesla desarrolló patentes fundamentales para su fabricación.9​8​ La electrónica de potencia gobierna el flujo de corriente de entrada y salida del paquete de baterías. Controla la generación de par motor durante la conducción y la recarga del paquete de baterías cuando está conectado a un enchufe.8​
+
+Tesla Motors diseñó cajas de cambio de una marcha para el Roadster y para el Model S. Combinan un peso bajo con una alta eficiencia para adecuarse a la velocidad y par motor de los motores de inducción de corriente alterna. Se fabrican en la planta de Tesla.8​ Los vehículos eléctricos contienen muchos procesadores para controlar funciones de seguridad y potencia. Tesla Motors construye el firmware de muchos procesadores con algoritmos que controlan la tracción, la estabilidad del vehículo, la aceleración, el freno regenerativo, el estado de carga de cada célula del paquete de baterías y los sistemas de seguridad.8​
+
+Tesla Motors realiza el diseño y la ingeniería de carrocería, chasis, interiores, sistemas de calefacción y aire acondicionado. Algunos subsistemas de un automóvil tradicional deben ser rediseñados en un vehículo eléctrico. Por ejemplo, Tesla Motors rediseñó el sistema de climatización para integrarlo con el sistema de gestión de temperatura del paquete de baterías.8​
+
+A 31 de diciembre de 2011 Tesla Motors tenía 59 patentes adjudicadas y otras 230 patentes pendientes de aprobación. Las patentes comenzarán a caducar en 2026.8​ El 12 de junio de 2014 Tesla Motors liberó todas sus patentes.10​ Los beneficios de Tesla Motors a 31 de diciembre fueron de 111,9 millones de dólares en 2009, 116,7 millones de dólares en 2010 y 204,2 millones de dólares en 2011.8​ Tesla Motors tuvo una pérdida neta en 2011 de 254,4 millones de dólares y una pérdida neta acumulada de 669,4 millones de dólares a 31 de diciembre de 2011.8​
+Plan maestro
+
+Tesla se fundó para acelerar la transición hacia el transporte sostenible. Tesla en sus inicios redactó su «plan maestro» para influir en la industria desde un punto de vista basado en la energía renovable. Sus objetivos principales eran:
+
+    1. Comenzar con un proyecto pequeño fabricando pocas unidades a un precio alto. Fue el Tesla Roadster. Demostró que se podía fabricar un vehículo eléctrico de altas prestaciones que desmontaba el mito de que los vehículos eléctricos eran lentos, pesados, feos y con poca autonomía. Tesla llegó a fabricar hasta 500 unidades al año. Tuvo un gran efecto en la industria y Bob Lutz, antiguo presidente de General Motors afirmó que el Tesla Roadster fue el responsable de que iniciaran el programa del Chevy Volt, que a su vez influyó en el programa del Nissan Leaf.
+    2. Fabricar un vehículo en mayor volumen de unidades y a un precio menos caro. El Tesla Model S demostró que podía competir con las grandes berlinas de lujo. Sobre la misma plataforma Tesla fabricó el Tesla Model X.
+    3. Vehículo producido en gran volumen y a un precio accesible. Los beneficios que obtuvo Tesla con los modelos anteriores le permitieron abordar el proyecto del Tesla Model 3. Sobre la misma plataforma Tesla fabricó el Tesla Model Y.11​
+
+Historia y financiación
+Elon Musk
+JB Straubel
+
+La idea de fundar una empresa que comercializase coches eléctricos nació en el año 2003, cuando General Motors anunció que retiraría todos los ejemplares del EV1 y los desguazó.12​ La empresa AC Propulsion tenía dos equipos trabajando en el desarrollo de un prototipo eléctrico, el T-Zero; en un equipo estaban Martin Eberhard, Marc Tarpenning e Ian Wright, y en el otro equipo estaban Elon Musk y JB Straubel. El objetivo de crear coches impulsados por energía renovable parecía inviable por los múltiples problemas que suponía (escasa autonomía, tiempo de recarga, precio de las baterías, falta de infraestructura, y aparente falta de atractivo para los clientes, como declaró General Motors cuando abandonó el proyecto de coche eléctrico). Tom Gage, presidente de AC Propulsion, propuso que ambos equipos unieran fuerzas si querían dar viabilidad a sus desarrollos, y del dúo Elon Musk y JB Straubel pasaron al trío con la unión de Martin Eberhard para fundar Tesla Motors. Elon Musk ya había fundado varias empresas, era millonario y había tenido la idea de desarrollar baterías para el almacenamiento de energía renovable desde que estudiaba en Stanford, por lo que tenían claro el objetivo. Musk aportaría el dinero necesario para sacar la idea adelante y sería responsable de diseño, Martin Eberhard quedó como CEO y JB Straubel quedó como CTO. La primera ronda de financiación recaudó 7,5 millones de dólares, la mayor parte del bolsillo de Musk. Otros inversores eran Compass Technology Partners, SDL Ventures, y otros inversores privados. En la segunda ronda Musk invirtió 13 millones de dólares. En los primeros años Eberhard llevaba las riendas empresariales, mientras Musk supervisaba el diseño del coche y Straubel la mecánica del vehículo.13​ Así sacaron adelante el primer prototipo llamado Tesla Roadster, un prototipo basado en el Lotus Elise. El Tesla se diferenciaba de este en la motorización, y en una insistencia personal de Musk de que la carrocería tendría que ser de fibra de carbono en vez de fibra de vidrio como la del Lotus Elise.14​ En mayo de 2006 en la tercera ronda de 40 millones de dólares Musk invirtió junto con otros inversores atraídos por las ideas de la compañía. 9​ El objetivo era demostrar que el vehículo eléctrico podía competir con las mejores marcas de deportivos; y con los fondos obtenidos de la venta del primer coche desarrollarían vehículos asequibles.15​16​ En agosto de 2006 publicaron en su web el plan que ambicionaban: diseñar un deportivo de altas prestaciones. En octubre de ese año recibieron el premio Global Green 2006 en un acto presidido por Mijaíl Gorbachov por el diseño del Tesla Roadster,17​ reconocido nuevamente en 2007 con el premio Index Design.18​ En mayo de 2007 la cuarta ronda añadió otros 45 millones de dólares acumulando un total de 105 millones de dólares en inversiones.
+
+Los dos últimos años habían demostrado que iban en serio a nivel técnico, pero la situación ejecutiva no era estable debido a problemas económicos. En junio de 2007, en una reunión de la compañía, Martin Eberhard dijo que la producción unitaria del Tesla Roadster superaría los 100.000$, no los 65.000$ que tenían previstos. Un pequeño inversor en Tesla, el CEO de Flextronics llamado Michael Marks, fue nombrado temporalmente CEO de Tesla Motors por Elon Musk para sustituir a Eberhard, siendo sustituido en diciembre de 2007 por Ze'ev Drori, fundador de una empresa de electrónica.19​ 20​ Martin Eberhard y una docena de ejecutivos de primer nivel fueron despedidos en enero de 2008.21​ Tesla se vio forzada a reducir la plantilla en un 10% debido a que el gasto en 2007 estuvo fuera de control.19​
+
+En enero de 2008, la aportación económica de la NHTSA, agencia dependiente del gobierno de Estados Unidos, salva a Tesla de la quiebra, aportando 43 millones de dólares a una empresa que llevaba dando pérdidas desde su creación. La quinta ronda de financiación en febrero de 2008 añadió otros 40 millones de dólares. De los 145 millones de dólares que la empresa había recibido, 74 millones provenían de Elon Musk.20​ En octubre de 2008, Tesla Motors no es capaz de recaudar los 100 millones de dólares que necesita para subsistir, por lo que Musk asumió la labor de CEO y Ze'ev Drori pasa a ser vicepresidente hasta que abandonó la compañía en diciembre.20​ El retraso en el Model S provocó el despido de una cuarta parte de los empleados y el cierre de la oficina de ingeniería de Michigan.20​ Darryl Siry, Director de Ventas de Tesla, dimitió diciendo le incomodaba la forma en que la compañía financiaba sus operaciones dependiendo de los depósitos de reserva para el Model S. Dijo que sentía que la compañía estaba crónicamente infrafinanciada e infracapitalizada.20​
+
+En enero de 2009, Elon Musk dijo que Tesla entregaría beneficios a partir del segundo semestre de aquel año. Todo ello gracias a una subvención del Departamento de Energía de Estados Unidos para construir una fábrica de coches, que les sería entregada en verano. Cuando peor estaba la situación, Daimler AG adquirió casi el 10% de las acciones de Tesla Motors por un importe de unos 50 millones de dólares en el mes de mayo de 2009. Tesla Motors y Daimler AG acordaron cooperar en sistemas de baterías, sistemas de propulsión para vehículos eléctricos y proyectos de vehículos. Como parte de la colaboración el Prof. Herbert Kohler, Vicepresidente de E-Drive y Future Mobility de Daimler AG, tuvo un asiento en el consejo de administración de Tesla.22​ En 2014 Daimler terminó el contrato de suministro con Tesla y vendió sus acciones por 780 millones de USD.23​
+
+En julio de 2009 AABAR AD compró a Daimler AG el 40% de las acciones que tenía de Tesla Motors.24​ En junio de 2009 el Departamento de Energía de Estados Unidos aprobó la entrega de un préstamo de 465 millones de dólares, que formaba parte de un programa de 8000 millones de dólares para tecnologías avanzadas para vehículos. El préstamo de bajo interés formaba parte del programa Advanced Technology Vehicles Manufacturing Loan Program (ATVM), creado en 2007 durante el mandato de George W. Bush para potenciar los vehículos más eficientes y reducir la dependencia del petróleo extranjero.25​ Este dinero supuso el salvamento de Tesla Motors. El préstamo iba dirigido a la ingeniería y producción del Model S y al desarrollo de tecnología eléctrica que Tesla vende a otros fabricantes.26​ En septiembre de 2009 Tesla anunció otra ronda de financiación de 82,5 millones de dólares en la que invirtieron Daimler AG, Fjord Capital Partners, Aabar entre otros. Fue la primera ronda de financiación en la que Elon Musk no contribuyó. Hasta la fecha se habían invertido un total de 783,5 millones de dólares en la compañía.27​ El 11 de julio Tesla Motors firmó un contrato de producción con Lotus Cars para producir "gliders" (coches completos sin baterías, motor ni componentes eléctricos de propulsión) para Tesla.28​ El contrato de producción se prorrogó para mantener el Roadster en producción hasta diciembre de 2011 con un número mínimo de 2400 unidades.29​
+Evolución en bolsa
+
+El 29 de enero de 2010 solicitó la salida a bolsa gestionada por Goldman Sachs, Morgan Stanley, J. P. Morgan, y Deutsche Bank Securities. El 26 de marzo Tesla afirmó que había vendido 937 Tesla Roadster a clientes de 18 países y había generado un beneficio de 126,8 millones de dólares hasta el 31 de diciembre de 2009.30​ El 21 de mayo de 2010 Tesla anunció una colaboración estratégica con Toyota, que compraría 50 millones de dólares en acciones de Tesla Motors.31​
+
+El 29 de junio de 2010 Tesla Motors salió a bolsa en el NASDAQ bajo el acrónimo TSLA. La oferta pública consiguió 226 millones de dólares para la compañía. Era el primer fabricante de coches estadounidense en salir a bolsa desde 1956 en que lo hizo Ford Motor Company.32​
+
+El 29 de junio de 2010 salió a bolsa a 17 USD. Hasta el 31 de diciembre de 2011 la cotización mínima fue de 14,98 USD y la máxima de 36,42 USD.8​ El 2 de diciembre de 2012, la acción valía 33.82 USD y el valor de mercado era de 3 848 001 214 USD. El 28 de agosto de 2013 la acción se cotizaba a 166 USD y la capitalización bursátil era de 20 215 293 743 USD.33​ El 9 de septiembre de 2014 la acción se cotizaba a 278 USD y la capitalización bursátil era de 34 706 910 603 de USD, El 14 de mayo de 2018 la acción se cotizaba a 299 USD y la capitalización bursátil era de 51 530 000 000 de USD.
+
+El 15 de enero de 2019 la acción se cotizaba a 302 USD y la capitalización bursátil era de 51 910 000 000 de USD. A principios de abril de 2017 tenía una capitalización bursátil que rondaba los 47 800 millones de dólares, superando así la valoración de Ford Motor Company (44 900 millones).34​ A lo largo de 2017, fue la empresa automovilística que más incrementó su valor de marca según el índice BrandZ.35​ En 2018 Tesla afrontó problemas para producir su Model 3.36​37​
+Resultados financieros
+Ingresos (en azul) y pérdidas netas (en naranja) de Tesla hasta 2019.
+
+A lo largo de toda la década de 2010, Tesla aumentó rápidamente sus ventas de año en año a costa de no generar beneficios. En julio de 2020, la compañía anunció por primera vez que había conseguido beneficios durante los cuatro trimestres precedentes. La principal contribución a estos beneficios fue la venta de créditos de emisiones de CO2 a competidores, en particular al grupo Fiat Chrysler en la Unión Europea.38​
+Estrategia de marca
+
+Hasta mayo de 2008 Tesla Motors vendió sus coches por teléfono, internet o en la sede central. Entonces abrió la primera tienda en Los Ángeles, California. En 2012 tenía 20 tiendas y talleres en Norteamérica, Europa y Asia. Las tiendas Tesla están situadas en sectores de lujo de las ciudades más importantes. Algunas combinan tienda con taller de servicio.
+
+Tesla Motors pretende ofrecer al cliente una experiencia convincente mientras que consigue ventas y beneficios de servicio que los fabricantes tradicionales no tienen en el modelo de distribución por franquicias y de talleres oficiales. Los clientes tratan directamente con personal de Tesla y no con franquiciados. Tesla quiere conseguir un mejor control de costes de inventario, gestión de garantía, servicio, fortalecimiento de la marca y obtención de comentarios de los clientes. Al ser propietario de la red comercial Tesla evita el conflicto de intereses en la estructura de los concesionarios tradicionales donde la venta de piezas en garantía y reparaciones del concesionario son un beneficio para el concesionario y un gasto para el fabricante.8​
+
+Además de vender en sus tiendas, Tesla hace muestras temporales de sus coches en centros comerciales con gran afluencia de personas, donde puede responder las preguntas de forma personal y así conseguir una experiencia diferente. En 3 meses y con 6 muestras en centros comerciales, Tesla atendió a 400 000 personas individualmente.39​ Los gastos de publicidad fueron de 1,7 millones de dólares en 2009, 3,1 millones de dólares en 2010 y 2,9 millones de dólares en 2011.8​
+
+George Blankenship, director de ventas de Tesla Motors, dijo:
+
+    No queremos vender un coche a la gente, queremos que la gente nos compre un coche porque quiere. Es diferente. Yo creo que todo aquel que venga a una tienda Tesla hoy querrá comprarnos un coche en los próximos 10 años. Eso es lo importante, no los próximos 3 días, sino los próximos 10 años.
+
+39​
+
+A diferencia de otros fabricantes no hay negociación del precio porque es fijo para todo Estados Unidos y está publicado en su página web. El cliente se puede centrar en configurarlo con sus opciones preferidas.39​
+
+Tesla Motors no tiene un depósito de coches fabricados para vender, sino que fabrica los coches tal como los configura el cliente en una tienda Tesla o a través de internet.39​
+
+El 12 de junio de 2014 Tesla Motors anunció que liberaba todas sus patentes.10​
+Productos
+Modelos descatalogados
+Tesla Roadster
+Artículo principal: Tesla Roadster
+Tesla Roadster.
+
+El primer coche de la compañía fue el Tesla Roadster, fue el primer automóvil de serie que usando baterías de iones de litio obtiene una autonomía de más de 200 millas (322 km) por carga.40​ El modelo base acelera de 0 a 60 millas por hora (97 km/h) en 3,9 segundos y según el análisis medioambiental de Tesla Motors es el doble de eficiente que el Toyota Prius.41​ El precio final del modelo básico de 2009 era de 109 000 USD (91 724 euros según la cotización de hoy). Hasta junio de 2012 se habían vendido 2100 unidades en 31 países y habían recorrido más de 37 millones de kilómetros eléctricos.42​ Este vehículo apareció en la portada de Time en diciembre de 2006 como "premio a la mejor invención de transporte de 2006".43​ Tesla dejó de admitir pedidos para el Roadster en agosto de 2011.44​ Usa un motor de corriente alterna AC que deriva directamente del diseño original de Tesla en 1882.45​
+Tesla Roadster Sport
+Artículo principal: Tesla Roadster
+Tesla Roadster Sport 2.5, la cuarta generación del Roadster
+
+El Tesla Roadster Sport es una versión mejorada del deportivo Tesla Roadster. Tesla comenzó a aceptar pedidos para el Roadster Sport en enero de 2009. Acelera de 0 a 60 millas por hora (97 km/h) en 3,7 segundos, comparado a los 3.9 segundos del Roadster.46​ El precio comenzaba en 128 500 USD en Estados Unidos y 112 000 euros (excluyendo impuestos) en Europa. Las entregas comenzaron en julio de 2009.
+Modelos en producción
+Tesla Model S
+Artículo principal: Tesla Model S
+Tesla Model S.
+
+El Tesla Model S es un liftback eléctrico fabricado por Tesla Motors, que comenzó sus entregas en julio de 2012.47​48​ La producción anual es de 50.000 unidades. Puede acomodar a 5 adultos y 2 niños que pueden ir en asientos traseros opuestos a la marcha. Tiene una autonomía entre 338 km y 507 km en ciclo EPA, y una aceleración de 0 a 100 km/h entre 5,8 segundos y 2,3 segundos según versiones.
+
+Los tiempos de recarga varían dependiendo del estado de carga, su capacidad total, el voltaje disponible y el amperaje de la corriente de recarga. Desde un enchufe de 240 V, 20 kW y alto amperaje se puede incrementar la autonomía en 100 km. por cada hora de carga49​ lo que equivale a unas 5 horas para recargar completamente la batería de 85 kWh.
+
+La versión de tracción trasera tiene un motor eléctrico con una caja reductora, mientras que la versión de tracción integral equipa dos motores eléctricos con una caja reductora cada uno. El paquete de baterías es plano y está bajo el coche. Está formado por miles de baterías de iones de litio sumando una capacidad de 60 kWh, 75 kWh, 90 kWh o 100 kWh según versiones.50​ La carrocería es de aluminio reforzada con elementos de acero al boro.50​
+Prestaciones del Tesla Model S 	60 	75 	60D 	75D 	90D 	100D 	P90D 	P100D
+Autonomía EPA 	338 km 	376 km 	350 km 	406 km 	473 km 	539 km 	434 km 	507 km
+Potencia máxima* 	387 CV 	387 CV 	524 CV 	524 CV 	524 CV 	524 CV 	772 CV 	772 CV
+Potencia máxima (batería)** 	320 CV 	320 CV 	332 CV 	332 CV 	422 CV 	422 CV 	540 CV 	613 CV
+0 a 100 km/h 	5,8 segundos 	5,8 segundos 	5,4 segundos 	4,4 segundos 	4,4 segundos 	4,3 segundos 	3,0
+2,8 (Ludicrous) 	2,3
+0 a 400 metros (¼ milla) (segundos) 	13,8 	13,8 	13,5 	13,5 	12,5 	12,5 	11,7
+10,9 (Ludicrous) 	10,6
+Velocidad máxima 	210 km/h 	225 km/h 	210 km/h 	225 km/h 	250 km/h 	250 km/h 	250 km/h 	250 km/h
+Almacenamiento de energía (capacidad útil) 	60 kWh 	75 kWh 	60 kWh 	75 kWh 	90 kWh 	100 kWh 	90 kWh 	100 kWh
+Garantía de baterías 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km
+Entra en producción 	primavera 2016 	primavera 2016 	primavera 2016 	primavera 2016 	verano 2015 	invierno 2016 	verano 2015 	verano 2016
+
+51​
+
+* Se refiere a la potencia máxima que pueden desarrollar los motores por separado.
+
+** Se refiere a la potencia máxima que puede entregar la batería y la potencia máxima que pueden entregar los motores en combinado. La potencia máxima disponible dependerá del estado de la batería, es decir, de su nivel de carga, su temperatura y los "C" (tasa de descarga) disponibles.
+
+El gobierno federal de Estados Unidos subvenciona este vehículo con 7 500 USD (6311 euros). Adicionalmente algunos estados lo subvencionan con otros 10 000 USD hasta un total de 17 500 USD (14 726 euros).50​ En Europa el precio sin extras va de 69 840 euros a 104 740 euros antes de impuestos y subvenciones. En junio de 2015 todos los Tesla Model S habían recorrido una distancia acumulada de 1 000 millones de millas (1 609 millones de kilómetros).52​
+Tesla Model X
+Artículo principal: Tesla Model X
+Tesla Model X
+
+El Tesla Model X es un todoterreno eléctrico fabricado por Tesla Motors basado en la plataforma del Model S. Inició sus entregas en el mercado estadounidense el 29 de septiembre de 2015.53​ Es una mezcla de monovolumen y SUV (Sport Utility Vehicle) con capacidad para 7 adultos. Usa la misma plataforma que el Model S. Pretende ser más funcional que un monovolumen, más vistoso que un SUV y con más prestaciones que un deportivo. Las puertas traseras son del tipo halcón (Falcon wings) y se abren hacia arriba. Esto permite una mejor accesibilidad a las plazas traseras. El paquete de baterías es plano y está bajo el suelo. La capacidad de la batería es de 60 kWh, 75 kWh, 90 kWh o 100 kWh.
+
+El Model X está equipado con dos motores con una caja reductora de una sola velocidad cada uno, un conjunto en el eje delantero y otro en el trasero, proporcionándole tracción integral All-Wheel Drive.54​ La aceleración de 0 a 100 km/h del modelo base es de 6,2 segundos, mientras que el Model X P100D Sig la tiene en 3,1 segundos con "Ludicrous Mode", siendo el todocamino más rápido del mundo.55​
+
+El Tesla Model X fue diseñado por Franz von Holzhausen. El chasis, carrocería, motor y almacenamiento de energía son propios de Tesla Motors.56​ Tiene un coeficiente aerodinámico de 0,24 por lo que el Model X es el todocamino más aerodinámico del mercado. El Telsa Model X se presentó en febrero de 2012.57​
+Prestaciones del Tesla Model X 	60D 	75D 	90D 	100D 	P90D 	P100D
+Autonomía EPA 	322 km 	384 km 	413 km 	475 km 	402 km 	465 km
+Potencia máxima* 	524 CV 	524 CV 	524 CV 	524 CV 	772 CV 	
+Potencia máxima (batería)** 	332 CV 	332 CV 	540 CV 	422 CV 	540 CV 	
+0 a 100 km/h 	6,2 segundos 	6,2 segundos 	5 segundos 	5 segundos 	3,4 segundos 	3,1 segundos
+Velocidad máxima 	210 km/h 	210 km/h 	250 km/h 	250 km/h 	250 km/h 	250 km/h
+Almacenamiento de energía 	60 kWh 	75 kWh 	90 kWh 	100 kWh 	90 kWh 	100 kWh
+Garantía de baterías 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km 	8 años, sin límite de km
+Entra en producción 	verano 2016 	verano 2016 	primavera 2016 	invierno 2016 	otoño 2015 	verano 2016
+
+58​
+
+* Se refiere a la potencia máxima que pueden desarrollar los motores por separado.
+
+** Se refiere a la potencia máxima que puede entregar la batería y la potencia máxima que pueden entregar los motores en combinado. La potencia máxima disponible dependerá del estado de la batería, es decir, de su nivel de carga, su temperatura y los "C" (tasa de descarga) disponibles.
+Tesla Model 3
+Artículo principal: Tesla Model 3
+Tesla Model 3
+
+El cuarto modelo que Tesla comercializa desde el 28 de julio de 2017 es el Tesla Model 3, con un precio base para la versión de acceso de 35 000 USD. Tiene una autonomía superior a los 354 km según el ciclo EPA. La aceleración de 0 a 97 km/h es de 5,6 segundos en la versión básica.59​
+
+El modelo básico tiene habilitada la carga rápida (supercharging) y dispone del hardware para la función de conducción asistida Autopilot. Puede llevar cinco pasajeros con comodidad. Tiene un maletero detrás y otro menor delante con una capacidad de carga superior a cualquier otro turismo de sus medidas exteriores. Puede alojar en el interior una tabla de surf de 210 cm. Obtuvo cinco estrellas en todas las pruebas de seguridad y en todas las categorías. Tiene un techo de cristal panorámico.11​
+
+Al año se fabrican unas 500.000 unidades en la fábrica de Tesla de Fremont, California. Las baterías de iones de litio son fabricadas en su Gigafábrica 1 de Tesla de Reno, Nevada. Es la fábrica con la mayor superficie en planta del mundo y la segunda en volumen tras la de Boeing en Washington. Fabrica más baterías de iones de litio que el resto de las fábricas del mundo sumadas.11​
+
+El 31 de marzo de 2016 durante la presentación oficial anunció que ya se habían reservado 115.000 unidades del Model 3.11​ Tesla afirmó que en las primeras 24 horas recibió más de 180.000 reservas, lo que suponía un récord mundial para las ventas de cualquier tipo de producto. En el segundo día las reservas superaron las 232.000. En la primera semana recibió 325.000 reservas. Eso suponía unas ventas futuras de 14.000 millones de USD. Tesla afirmó que era el mayor lanzamiento de cualquier tipo de producto realizado en una semana. Tesla entregó 50.658 vehículos en 2015 y 14.820 en el primer trimestre de 2016.60​ Cada reserva implicaba el pago de 1000 USD o 1000 euros recuperables en caso de cancelación.
+
+Inicialmente el Model 3 debía llamarse Model E pero Ford tenía registrado dicho nombre y se negó a ceder los derechos a Tesla. Tesla lo denominó Model 3 pero escribiendo el número como Model "☰" con tres rayas horizontales al igual que la E de Tesla en su logotipo; de este modo con los diferentes modelos se forma la palabra «SEX» (sexo). Elon Musk registró el nombre Model Y para una futura versión crossover del Model 3. Entonces, se podrá formar la palabra «SEXY» con los cuatro modelos de Tesla.61​
+Prestaciones del Tesla Model 3 	Standard 	(Mid Range) 	(Long Range RWD) 	Long Range AWD 	Performance
+Producción 	marzo de 2019 	octubre de 2018-marzo de 2019 	julio 2017-octubre 2018 	julio 2018- 	julio 2018-
+Precio USD 	35 000 	(44 000) 	(44 000) 	51 000 	62 000
+Autonomía EPA 	354 km 	425 km 	499 km 	499 km 	499 km
+Aceleración 0-96,6 km/h 	5,6 segundos 	5.6 segundos 	5,1 segundos 	4,5 segundos 	3,3 segundos
+Velocidad máxima 	210 km/h 	201 km/h 	225 km/h 	233 km/h 	249 km/h
+Peso 	1611-1704 kg 	1672 kg 	1726-1847 kg 	1726 kg 	1847 kg
+Motor trasero 	211 kW (287 CV) 	211 kW (287 CV) 	211 kW (287 CV) 	188 kW (256 CV) 	211 kW (287 CV)
+Motor delantero 				147 kW (200 CV) 	147 kW (200 CV)
+Distribución peso delante/atrás 	47%/53% 		48%/52% 		--/--
+Capacidad de batería 	57 kWh (calculada) 	67 kWh (calculada) 	80 kWh 	80 kWh 	80 kWh
+km cargados en 30 min supercargador 	209 		274 	274 	274
+km cargados en 1 hora 240V 32A 	96 		120 		--
+Garantía de batería 	4 años/160 000 km 		4 años/193 000 km 	4 años/193 000 km 	4 años/193 000 km
+
+62​63​
+Tesla Model Y
+Artículo principal: Tesla Model Y
+Tesla Model Y
+
+El Tesla Model Y es un crossover eléctrico compacto desarrollado por Tesla Inc. El lanzamiento al mercado fue programado para el otoño de 2020.64​65​ Fue presentado el 14 de marzo de 2019.66​ La producción comenzó en enero de 2020 y las entregas comenzaron el 13 de marzo de 2020.67​ Está previsto iniciar las ventas en Europa a principios de 2021.
+
+Dispone de 5 a 7 plazas. Tiene uno o dos motores eléctricos y puede contar con tracción a las cuatro ruedas AWD. La aceleración de 0 a 100 km/h se efectua entre 3,7 segundos y 6,3 segundos. La velocidad punta va de 193 km/h a 241 km/h. Tiene una autonomía de 370 km (Standard Range) a 483 km (Long Range) según el ciclo EPA. Guarda un gran parecido con el Tesla Model 3 con el que comparte un 75% de las piezas.68​
+Prestaciones del Tesla Model Y Batería 	Standard range 	Long range
+Tracción 	Trasera 	Long range 	Dual motor AWD 	Performance
+Producción 	-- 	-- 	-- 	--
+Precio en dólares EE. UU. 	$39 000 	$48 000 	$52 000 	$61 000
+Autonomía (ciclo EPA) 	370 km 	483 km 	450 km 	450 km
+Autonomía (WLTP) 	390 km 	540 km 	505 km 	480 km
+Aceleración 0-100 km/h 	6,3 segundos 	5,8 segundos 	5,1 segundos 	3,7 segundos
+Velocidad máxima 	193 km/h 	209 km/h 	217 km/h 	241 km/h
+Peso (kg) 				
+Motor trasero 				
+Motor delantero 				
+Distribución peso delante/atrás 				
+Capacidad de batería (kWh) 				
+km cargados en 30 min supercargador 				
+km cargados en 1 hora 240V 32A 				
+Garantía de batería 				
+Disponibilidad en EE. UU. 	enero de 2021 	marzo de 2020 	marzo de 2020 	marzo de 2020
+
+69​70​
+Próximos modelos
+Tesla Roadster (Segunda Generación)
+Artículo principal: Tesla Roadster (2020)
+Tesla Roadster (Segunda Generación)
+
+En noviembre de 2017 Tesla presentó una nueva versión del descatalogado Roadster que tiene previsto comercializarse en 2022 (inicialmente la fecha era 2020 pero se ha retrasado).71​ Se trata de un superdeportivo con cuatro plazas. Velocidad punta de 400 km/h. 0-60 millas por hora en 1,9 segundos. 0-100 millas por hora en 4,2 segundos. 1/4 de milla 8,8 segundos. Una batería de 200 kWh que proporciona una autonomía de 1000 km. Tendrá un precio de 200  000 USD.
+Tesla Semi
+Artículo principal: Tesla Semi
+Tesla Semi.
+
+En noviembre de 2017 Tesla presentó un modelo de camión que puede cargar 36 toneladas. Las primeras entregas están previstas para 2021 (inicialmente la fecha era 2019).72​ Tiene cuatro motores eléctricos. Acelera de 0 a 100 km/h a plena carga en 20 segundos. Puede subir pendientes del 5% a 105 km/h. Autonomía de 800 km a plena carga. Tendrá una garantía de 1,6 millones de km. Tendrá funciones avanzadas de conducción autónoma y el control electrónico de sus cuatro motores independientes impide el efecto tijera.73​
+Tesla Cybertruck
+Artículo principal: Tesla Cybertruck
+Tesla Cybertruck
+
+El Tesla Cybertruck es un vehículo comercial ligero eléctrico de 4 puertas y 6 plazas del fabricante estadounidense Tesla Motors presentado en noviembre de 2019. Se anunciaron tres versiones con autonomías de 400 a 800 km y aceleraciones de 0 a 100 km/h entre 2,9 y 6,5 segundos. El objetivo de Tesla con el desarrollo del Cybertruck es proporcionar un sustituto sostenible para los 6500 pickups que se venden cada día en Estados Unidos.
+
+El precio base de la versión de tracción trasera será de 39 900 USD y los modelos con tracción a las cuatro ruedas comenzarán a partir de 49 900 USD.
+
+El inicio de ventas está previsto para finales de 2021.
+
+Esta camioneta de tipo pickup se ofrecerá en tres versiones:
+Especificaciones Tesla Cybertruck Modelo 	Autonomía EPA 	0–100 km/h 	Velocidad máxima 	Carga 	Capacidad remolque 	Precio
+Un motor tracción trasera 	> 400 km 	< 6,5 segundos 	175 km/h 	1600 kg 	> 3,1 toneladas 	$39,900
+Dos motores tracción total 	> 480 km 	< 4,5 segundos 	195 km/h 	1600 kg 	> 4,5 toneladas 	$49,900
+Tres motores tracción total 	> 800 km 	< 2,9 segundos 	210 km/h 	1600 kg 	> 6,3 toneladas 	$69,900
+
+Dos días después de la presentación, Elon Musk anunció en Twitter que se habían realizado 146.000 reservas; 42% dos motores, 41% tres motores y 17% un motor.74​
+Tesla Cyberquad
+Artículo principal: Tesla Cyberquad
+Tesla Cyberquad.
+
+El Tesla Cyberquad es un vehículo todoterreno de cuatro ruedas eléctrico creado por Tesla, Inc., y exhibido en la presentación de Tesla Cybertruck en Hawthorne, California, en el Tesla Design Studio. Al final de la presentación, Elon Musk anunció 'una cosa más', momento en el que se mostró que el ATV estaba cargado en la parte posterior del Cybertruck. No figura en el sitio web de Tesla a partir del 23 de noviembre de 2019, sin embargo, se menciona en las especificaciones del Cybertruck, mencionando "Espacio para su caja de herramientas, llanta y Cyberquad, con espacio de sobra". El 22 de noviembre de 2019, Elon Musk tuiteó: "El ATV eléctrico Tesla para 2 personas vendrá primero como una opción para Cybertruck". No se mencionó el precio. La marca comercial "Cyberquad" se registró en noviembre de 2019.
+Sistemas de almacenamiento
+Powerwall y Powerpack
+Artículo principal: Tesla Powerwall
+Tesla Powerwall 2
+Tesla PowerPack 2
+
+El 30 de abril de 2015 Tesla presentó dos sistemas de almacenamiento de energía: Powerwall y Powerpack. El Tesla Powerwall es un paquete de baterías de iones de litio usado como respaldo en la red eléctrica de un domicilio y que puede almacenar energía eléctrica proveniente de la generación de energía renovable, como instalaciones solares o eólicas, o almacenar electricidad en horario nocturno cuando la electricidad es más barata.75​ Puede instalarse en exteriores o interiores y no precisa un cuarto cerrado. También permite realizar una instalación eléctrica en lugares remotos sin acceso a la red.
+
+Tesla ofrecía dos capacidades: 7 kWh y 10 kWh. Su precio era de 3 000 USD y 3 500 USD respectivamente. Pueden entregar 5 kW de potencia continua y picos de hasta 7 kW.76​ La intensidad suministrada varía desde los 5,8 amperios nominales hasta los 8,6 amperios máximos. Pesan 100 kg y sus dimensiones son 1300 mm x 860 mm x 180 mm. Disponen de un control de temperatura y refrigeración por líquido. El Powerwall no incluye el inversor DC-AC. Tesla diseñó estas baterías de forma modular. Pueden conectarse hasta 9 paquetes para tener una capacidad total de hasta 90 kWh. Tesla ofrece una garantía de 10 años.77​ Para instalaciones más grandes
+
+El 28 de octubre de 2016 Elon Musk presentó el Powerwall 2 con un precio de 5500 USD. Puede abastecer una casa de 2 dormitorios durante un día y si tiene suficientes paneles solares lo puede hacer indefinidamente.78​ Tiene una capacidad de 14 kWh (13,5 kWh utilizables). Puede entregar 5 kW de potencia continua y picos de hasta 7 kW. Pesa 120 kg y sus dimensiones son 1150 mm x 755 mm x 155 mm. Dispone de un control de temperatura y refrigeración por líquido. El Powerwall 2 incluye un inversor interno DC-AC. Es escalable hasta 9 unidades y tiene una garantía de 10 años. Se puede montar en interior o exterior, en el suelo o colgado en la pared.77​
+
+Tesla ofrece el Powerpack de 100 kWh de capacidad y que puede escalarse de forma indefinida hasta alcanzar capacidades de GWh.79​
+
+El 28 de octubre de 2016 Elon Musk presentó el Powerpack 2 con una capacidad de 210 kWh de capacidad y una salida de 50 kW. Puede escalarse de forma indefinida hasta alcanzar capacidades de GWh. Se integra directamente en la red eléctrica. En esa fecha Southern California Edison estaba construyendo una instalación de 80 MWh con ese sistema. En Hawái se estaba construyendo otra instalación de 52 MWh.78​
+
+Tesla liberará las patentes de sus sistemas de almacenamiento de energía siguiendo su política de open source.79​ Las unidades de almacenamiento Powerwall y Powerpack se fabricaron en la fábrica de Tesla en Fremont durante 2015 y en la Gigafábrica 1 de Tesla de Reno, Nevada, desde 2016.79​ Las primeras entregas se realizaron en julio o agosto de 2015.79​
+
+Según Elon Musk para cubrir la generación de energía sostenible de Estados Unidos se necesitarían solo 160 millones de Powerpacks para un total de 16 000 GWh. Y para todo el mundo se precisarían 900 millones de Powerpacks para un total de 90 000 GWh. Para cubrir la generación de energía, transporte y calefacción de todo el mundo se necesitarían 2 000 millones de Powerpacks para un total de 200 000 GWh.79​
+
+El 7 de mayo de 2015 ya habían sido reservadas 38 000 unidades de Powerwall y 2 500 unidades de Powerpack, 63 000 unidades Powerwall en total, por un valor total de 800 millones USD.80​81​ Hasta julio de 2015 ya habían sido reservadas 100 000 unidades de Powerwall (incluyendo las unidades para Powerpack), por un valor total de 1000 millones USD.82​ Hasta abril de 2018 Tesla había instalado 373 MWh de almaceramiento por baterías, siendo su mayor proyecto el de 129 MWh en South Australia que se terminó en 2017.83​
+Solar Roof
+
+En otoño de 2016 Tesla Motors inició el proceso de fusión con SolarCity, que se dedica a la instalación de paneles solares fotovoltaicos.
+
+El 28 de octubre de 2016 Elon Musk presentó el Solar Roof en un vecindario en el que se había cambiado el tejado tradicional a cuatro casas. Es un sistema de tejas de vidrio que incorporan células fotovoltaicas. Musk destacó que eran bonitas, asequibles y se integraban con la casa proporcionando mejor aislamiento. Ante la caída de objetos pesados presentan una resistencia superior a las tejas de arcilla o de pizarra. Presentó los modelos Textured Glass Tile, Slate Glass Tile, Smooth Glass Tile y Tuscan Glass Tile.78​
+
+Solar Roof tiene la Gigafábrica 2 de Tesla en Buffalo, Nueva York, Estados Unidos.83​ Musk señaló que Tesla estaba en situación de proporcionar una solución global a las necesidades del ciclo de energía de cualquier familia:
+
+    Generación con SolarCity y Solar Roof.
+    Almacenamiento con Powerwall y Powerpack.
+    Transporte con Tesla Roadster, Model S, Model X, Model 3 y Model Y.78​
+
+Colaboraciones con otros fabricantes
+Mercedes Clase A E-Cell
+Mercedes Clase A E-Cell en Stuttgart, Alemania.
+
+Como parte de su colaboración con Mercedes-Benz, Tesla fabricó componentes del motor para el coche eléctrico Mercedes Clase A E-Cell. Tiene una autonomía de 200 kilómetros (124 mi), y un par motor de 290 Nm. El paquete de baterías de 36 kWh contiene unas 4000 baterías de iones de litio.84​ Hasta diciembre de 2011 Tesla Motors vendió a Mercedes 500 paquetes de baterías y cargadores para el programa Clase A E-Cell.8​
+Mercedes Clase B EV
+
+En el segundo trimestre de 2014 Tesla Motors comenzó la entrega de baterías, motores y sistemas de propulsión para el Mercedes Clase B EV.85​
+Daimler Smart
+Smart eléctrico.
+
+A principios de 2008 Tesla comenzó a trabajar con Daimler AG en componentes del motor para la versión eléctrica del Smart. Hasta diciembre de 2011 Tesla vendió 2100 paquetes de baterías y cargadores para los Smart fortwo eléctricos.86​87​8​ En 2014 Daimler terminó el contrato de suministro con Tesla y vendió sus acciones por 780 millones de USD.23​
+Toyota RAV4 EV
+Segunda generación del Toyota RAV4 EV
+
+En julio de 2010 Tesla Motors y Toyota firmaron un acuerdo para iniciar el desarrollo de una segunda generación del Toyota RAV4 EV.88​ En el verano de 2012 el vehículo se comenzó a vender por 51 000 USD. Tesla tiene un contrato de 100 millones de dólares para suministrar motores eléctricos, componentes de electrónica de potencia, paquetes de baterías de iones de litio, cajas de cambios de una marcha y software. Estos componentes son similares a los del Tesla Model S. La velocidad máxima es de 100 millas por hora (161 km/h). La aceleración de 0 a 60 millas por hora (97 km/h) es de 7 segundos. La autonomía normal es de 100 millas (161 km).89​90​ Las actividades de Tesla Motors en relación al programa RAV4 finalizaron en el tercer trimestre de 2014.85​
+Freightliner Custom Chassis
+
+Freightliner Custom Chasis es una filial de Daimler AG que fabrica chasis para posteriormente ser carrozados como furgonetas de reparto.8​ Tiene una versión eléctrica MT E-CELL All-Electric Delivery Van con un motor de 120 kW que dispone de una autonomía de hasta 100 millas (161 km). La batería se recarga totalmente entre 6 y 8 horas. Alcanza una velocidad de 65 millas por hora (105 km/h). Puede ahorrar en combustible hasta 15 000 USD (12 623 euros al cambio de hoy) al año en comparación con furgonetas similares.91​ Tesla Motors les proporciona el paquete de baterías, motor, electrónica de potencia y software.8​
+Sede
+Sede de Tesla Motors en Palo Alto, California
+
+Tesla Motors tiene la sede en Palo Alto, California. Centraliza los departamentos de investigación y desarrollo. Allí realiza prototipos y pruebas de baterías, motores, electrónica de potencia y software.8​ Tiene 350 000 pies cuadrados (32 516 m²) y está alquilada a Tesla Motors.8​ En Hawthorne, California, está alquilado en unas instalaciones de 132 250 pies cuadrados (12 286 m²) dedicadas a ingeniería y servicios de diseño. En Maidenhead, Reino Unido, está alquilado en unas instalaciones de 8870 pies cuadrados (824 m²) dedicadas a administración, ventas, servicio y publicidad.8​
+Fábrica
+Artículo principal: Fábrica Tesla
+Fábrica de Tesla en Fremont, California.
+
+La fábrica de Tesla Motors está en Fremont, California. Originalmente fue de GM y la cerró en 1982. En 1984 fue reabierta y operaba conjuntamente por Toyota y General Motors. Se la conocía como NUMMI (New United Motor Manufacturing Inc.). La planta funcionó durante 25 años produciendo 8 millones de vehículos hasta que GM se retiró en 2009. La producción de Toyota Corolla en Norteamérica se trasladó a Cambridge, Ontario, Canadá. Hasta mayo de 2010 NUMMI fabricó una media de 6000 vehículos a la semana.92​93​
+
+Tesla Motors tomó posesión de la planta el 19 de octubre de 2010.94​ y la abrió el 27 de octubre.95​ El 22 de junio de 2012 se entregó el primer Tesla Model S en una presentación especial en la fábrica.96​ En 2010 Tesla compró la mayoría de las plantas de fabricación por 42 millones de dólares, incluyendo las prensas de carrocería y las máquinas de inyección de plástico. Tesla Motors compró a NUMMI y Toyota con notables descuentos más de 17 millones de dólares de equipos de fabricación y piezas.87​ El gobierno de Obama concedió un préstamo federal de 465 millones de dólares con el que la compañía comenzó a reacondicionar la fábrica.97​
+
+En la fábrica Tesla Motors realiza el corte y prensado de chapa, la inyección de plástico, el ensamblado de carrocería, la pintura, la fabricación de paquetes de baterías, el montaje final y la prueba de control de calidad.8​ La mayor parte de las piezas estampadas y de aluminio y más del 90% de las piezas de plástico del Model S se producen en la planta. En la planta se fabrican más piezas del Model S que las que se hacían para el Toyota Corolla que se producía anteriormente en la fábrica.98​ El Tesla Model S tiene más de 2000 piezas que se compran a más de 200 fabricantes externos.8​ Las paredes y el suelo de la fábrica se pintaron de blanco y se instalaron muchos lucernarios en los techos para conseguir más luz natural.99​
+
+En junio de 2012 Tesla Motors empleaba a más de 2 000 trabajadores.100​ En junio de 2015 tenía 12 000 empleados.101​ A 30 de septiembre de 2014 ninguno de sus empleados pertenecía a ningún sindicato.85​ La planta tiene 210 acres (849 841 m²).8​
+Gigafábrica 1 de Tesla
+Gigafábrica 1 de Tesla
+Artículo principal: Gigafábrica 1 de Tesla
+
+La Gigafábrica 1 de Tesla es una enorme fábrica de baterías de iones de litio que se comenzó a construir en Reno, Nevada en septiembre de 2014.102​ Comenzó la producción en 2017 y estará a pleno rendimiento en 2019.103​
+Descripción
+Baterías de iones de litio.
+
+El coste de construcción será de unos 5 000 millones de USD.103​104​ Cuando la fábrica esté a pleno rendimiento, Tesla Motors espera obtener una reducción del 30% en el coste de producción de sus baterías para coches eléctricos. Para 2020 espera producir baterías para 500 000 coches Tesla al año. Los modelos equipados con las baterías producidas en la Gigafábrica 1 de Tesla serán el Tesla Model S, Tesla Model X y Tesla Model 3.
+
+Dará unos 6 500 empleos directos y unos 16 000 indirectos.105​104​106​ La contratación será principalmente para personas del estado de Nevada y especialmente veteranos de guerra.107​ El estado de Nevada tenía una población en 2012 de 2 758 931 habitantes. En 2010 la ciudad de Reno tenía 225 221 habitantes. El gobernador de Nevada Brian Sandoval dijo en septiembre de 2014 que el impacto de la Gigafábrica 1 en Nevada sería de 100 000 millones de USD en 20 años. Cuando esté en funcionamiento supondrá un 4% del PIB del estado de Nevada.108​ El gobernador esperaba un retorno de 80 USD por cada USD invertido por el estado de Nevada en los incentivos a la Gigafábrica 1.
+
+El CTO de Tesla JB Straubel dijo que la Gigafábrica 1
+
+    ‘doubling the worldwide capacity in a single factory and reinventing the supply chain.‘
+    ‘doblará la capacidad mundial (de producción de baterías de iones de litio) en una única fábrica y reinventará la cadena de suministro.’
+
+En la planta se producirán un total de 35 GWh en células de iones de litio para las necesidades de la fábrica de Tesla en Fremont y 15 GWh de células de iones de litio para paquetes de baterías estacionarios (para su uso en edificios).103​ Elon Musk dijo que la fábrica tendría una forma de diamante orientada al norte para ubicar mejor los paneles solares de la cubierta, reducir el movimiento de tierras y localizar con facilidad todos los componentes y equipos por GPS.107​ La fábrica será autosuficiente energéticamente. Producirá su electricidad con energía solar fotovoltaica y otras energías renovables como la eólica o geotérmica. Tratará de minimizar el impacto medioambiental.107​ La planta también reciclará paquetes de baterías usadas.103​
+Ubicación
+Tesla Model S. La Gigafábrica 1 fabricará baterías para el Tesla Model S, Tesla Model X y Tesla Model III.
+
+Está en el Reno Tahoe Industrial Center en 2641 Portofino Drive, Reno, Nevada, Estados Unidos.103​ Ocupa una superficie de 929 030 metros cuadrados.103​ La distancia entre la fábrica de Tesla en Fremont (California) y Reno, Nevada es de unos 330 km. El 3 de septiembre de 2014 el gobernador de Nevada Brian Sandoval y Elon Musk anunciaron que la ubicación de la Gigafábrica 1 estaría en Nevada.103​
+Gigafábrica 2 de Tesla
+Artículo principal: Gigafábrica 2 de Tesla
+
+La Gigafábrica 2 de Tesla es una fábrica de paneles solares alquilada por Tesla en Búfalo, Nueva York, Estados Unidos. La fábrica es propiedad del Estado de Nueva York y fue construida en los terrenos de una antigua acería entre 2014 y 2017.
+
+En 2013 los terrenos de la Gigafábrica 2 fueron planificados como un centro de incubación de negocios de energía limpia. SolarCity adquirió Silevo en 2014 y se fusionó con Tesla dos años después. En asociación con Panasonic la fábrica comenzó fabricando módulos fotovoltaicos en 2017 usando células fotovoltaicas importadas de Japón. Empezó su producción comercial de módulos en 2017. En 2018 SolarCity comenzó a fabricar células solares individuales.109​ Tras el inicio de la Gigafábrica 1 de Tesla cerca de Reno, Nevada en 2016, Tesla comenzó a referirse a la Gigafábrica SolarCity como Gigafábrica 2.110​
+Gigafábrica 3 de Tesla
+Artículo principal: Gigafábrica 3 de Tesla
+	
+Este artículo o sección se encuentra desactualizado.
+La información suministrada ha quedado obsoleta o es insuficiente.Uso de esta plantilla: {{sust:Desactualizado|tema del artículo}}
+
+La Gigafábrica 3 de Tesla es una fábrica de Tesla en Shanghái, China.111​
+
+Producirá baterías y vehículos Tesla Model 3 y Tesla Model Y con una producción inicial de 250 000 coches al año.112​
+
+La construcción comenzó en diciembre de 2018 con el vallado y las oficinas.
+Gigafábrica 4 de Tesla
+	
+Este artículo o sección se encuentra desactualizado.
+La información suministrada ha quedado obsoleta o es insuficiente.Uso de esta plantilla: {{sust:Desactualizado|tema del artículo}}
+
+Tras varios años anunciando una fábrica en Europa sin decidir el país donde se construiría en noviembre de 2019 se anunció que finalmente se hará en Alemania cerca de Berlín. La construcción se iniciará a principios de 2020 con intención de que empiece a funcionar a finales de 2021.113​
+Gigafábrica 5 de Tesla
+	
+Este artículo o sección se encuentra desactualizado.
+La información suministrada ha quedado obsoleta o es insuficiente.Uso de esta plantilla: {{sust:Desactualizado|tema del artículo}}
+
+Tras tiempo anunciando una nueva fábrica en EE. UU. y negociando con deferentes estados las condiciones, en julio de 2020 se anunció que se construirá en Austin, Texas.114​
+Centros de servicio
+Tesla abrió en septiembre de 2009 un concesionario en Múnich, Alemania.
+
+Tesla Motors tiene concesionarios propios. En julio de 2010 Tesla contrató al ejecutivo George Blankenship como vicepresidente de diseño y desarrollo de concesionarios. Antes había trabajado en Apple y Gap.115​ La mayoría de tiendas Tesla tienen un taller adjunto. En algunos mercados Tesla instalará tiendas y talleres separados.
+
+Tesla ofrece un servicio a domicilio llamado Tesla Rangers en el que le carga al cliente un precio fijo por kilómetro de desplazamiento. Los propietarios de un vehículo Tesla pueden enviar datos de diagnóstico a través de telefonía móvil o en una tarjeta de memoria. Esto permite diagnosticar y reparar muchos problemas antes de mirar el vehículo físicamente. Cuando es necesario un mantenimiento o reparación el cliente pide una cita en un taller Tesla. Los Tesla Rangers pueden realizar bastantes reparaciones en sus desplazamientos, como revisiones anuales, actualizaciones de software y firmware, cambio de módulos electrónicos y algunos componentes mecánicos. Si la reparación es mayor y requiere un elevador el vehículo se lleva al taller Tesla más próximo.8​
+
+En 2012 Tesla tenía Service Centers y/o Service Rangers en Chicago, Copenhague, Dania Beach, Denver, Eindhoven, Hong Kong, Los Ángeles, Menlo Park, Milán, Múnich, Newport Beach, New York, Oslo, París, Seattle, Sídney, Tokio, Toronto, Washington DC, Londres y Zúrich.116​ En marzo de 2018 disponía de 339 tiendas y centros de servicio en todo el mundo.83​
+Tecnología de recarga
+Supercargadores
+Artículo principal: Tesla Supercharger
+Estación de carga alimentada mediante energía solar fotovoltaica mediante paneles instalados en la cubierta.
+
+El 25 de septiembre de 2012 Tesla presentó sus estaciones de recarga rápida (superchargers) en corriente continua. Tesla las instala en las áreas de descanso de las carreteras para que mientras el conductor descansa el coche se recargue. En cada ubicación se instalaban varios postes de carga con una potencia máxima de 120 kW compartida para cada dos postes.
+
+Estas recargas fueron gratis para todos los primeros Tesla Model S y Model X de forma indefinida. El 24 de abril de 2014 Tesla puso en servicio su estación de recarga rápida número 100. En abril de 2014 Tesla tenía 14 supercargadores en Europa.117​ En abril de 2016 Tesla tenía operativas 617 estaciones de recarga rápida con 3652 puestos de recarga.
+
+El 4 de noviembre de 2017 Tesla tenía operativas 1032 estaciones de recarga rápida con 7320 puestos de recarga.118​
+
+En abril de 2018 Tesla tenía operativas 1205 estaciones de recarga rápida con 9300 puestos de recarga.83​
+
+En marzo de 2019 Tesla disponía en todo el mundo de 1441 estaciones de recarga rápida con 12 888 puntos de recarga.
+
+En marzo de 2019 Tesla lanzó una actualización telemática por la que retiró de los vehículos el límite de 120 kW y les permitió cargar hasta 145 kW en toda la red de supercargadores.119​ En marzo de 2019 Tesla anunció la versión Supercharger V3 en la que usando PowerPacks de 1 MW y cables refrigerados por líquido conseguía potencias de recarga de hasta 250 kW en cada poste (para Tesla Model 3).
+
+En marzo de 2019 también lanzó una actualización telemática con la que acondiciona la temperatura de la batería cuando el vehículo se encamina a un supercargador de manera que se reduce en un 25% el tiempo de carga medio.120​
+
+Hay adaptadores del cargador rápido Chademo a conector Tesla, de hasta 50 kW de corriente continua.121​
+Intercambio de baterías
+
+El 20 de junio de 2013 Tesla presentó el sistema de intercambio de baterías para el Tesla Model S. El conductor acude a una estación de intercambio Tesla donde sitúa el coche sobre un foso. Un sistema robotizado quita los tornillos que sujetan el paquete de baterías a la carrocería, retira hacia abajo el paquete descargado, coloca un paquete cargado y aprieta los tornillos con el par de apriete especificado. El conductor no se baja del vehículo durante el proceso que dura 90 segundos.
+
+En la presentación del sistema se comparó en directo con el repostaje de gasolina de un coche en una gasolinera con flujo de suministro alto (38 litros por minuto). Desde que el conductor bajó del coche hasta que volvió a arrancar pasaron 4 minutos y 7 segundos. Durante ese tiempo se cambiaron las baterías a dos Tesla Model S. El intercambio de baterías del primer Tesla Model S se llevó a cabo en 1 minuto 13 segundos y en el segundo en 1 minuto 33 segundos.122​
+
+En diciembre de 2014 Tesla Motors comenzó un programa piloto de intercambio de baterías en Harris Ranch, California, junto a un supercargador. Este programa tiene como objetivo probar la tecnología y la demanda del servicio. El proceso de intercambio dura unos 3 minutos y el coste es similar a llenar un depósito de gasolina en un coche de su gama.123​ Finalmente, después de un periodo de pruebas en el que los clientes pudieron probar el sistema, Tesla decidió finalizar el proyecto debido a que solo 5 personas de las 200 invitaciones desplegadas por la compañía fueron a usar la estación, y lo hicieron solo una vez. Elon Musk decidió que no era viable seguir con el proyecto.124​
+Patentes
+
+El 12 de junio de 2014 anunció que liberaba sus patentes para que pudieran ser utilizadas de buena fe para la construcción de vehículos eléctricos. Lo hacía con el espíritu del movimiento open source (código abierto) para hacer avanzar la tecnología del vehículo eléctrico. En 2014 menos del 1% de los vehículos producidos eran eléctricos.
+
+En 2014 la producción anual se acercaba a los 100 millones de vehículos y la flota total era de unos 2000 millones de vehículos. Tesla creía que aplicando la filosofía open source a sus patentes le fortalecería y no le debilitaría.125​
+Socios
+
+Tesla Motors fabrica y vende sus coches, pero a diferencia de otros fabricantes también opera como fabricante de equipo original (original equipment manufacturer, OEM). Fabrica componentes para vehículos eléctricos que otros fabricantes pueden comprar y usar con sus propias marcas. Tesla tuvo colaboraciones con Daimler AG y Toyota. También trabaja estrechamente con Panasonic como socio estratégico en la investigación y desarrollo de baterías.126​
+Daimler AG
+
+En mayo de 2009 Daimler AG adquirió casi el 10% de las acciones de Tesla Motors por un importe de unos 50 millones de dólares. El 31 de diciembre de 2011 la filial de Daimler AG Blackstar lnvestco LLC era propietaria de 8 113 215 acciones de Tesla Motors. Tesla Motors y Daimler AG acordaron cooperar en sistemas de baterías, sistemas de propulsión para vehículos eléctricos y proyectos de vehículos. Como parte de la colaboración el Dr. Herbert Kohler, Vicepresidente de E-Drive y Future Mobility de Daimler AG, tuvo un asiento en el Consejo de Dirección de Tesla.22​ En julio de 2009 AABAR AD compró a Daimler AG el 40% de las acciones que tenía de Tesla Motors.24​ En 2014 Daimler terminó el contrato de suministro con Tesla y vendió sus acciones por 780 millones de USD.23​
+AABAR AD
+
+controlada por IPIC (International Petroleum Investment Company), que es propiedad del Gobierno del emirato de Abu Dhabi. El IPIC es uno de los medios para invertir la riqueza petrolera de Abu Dhabi, que es uno de los mayores exportadores de petróleo. En marzo de 2009 AABAR AD compró un 9% de acciones de Daimler AG. En julio de 2009 AABAR AD compró a Daimler AG el 40% de las acciones que tenía de Tesla Motors.24​
+Toyota
+
+En julio de 2010 Tesla Motors vendió 2 941 176 acciones a Toyota a un precio de 17 USD por acción. La venta fue de 50 millones de dólares8​
+Panasonic
+El presidente de Panasonic Energy Company Naoto Noguchi presenta a JB Straubel de Tesla las primeras baterías de iones de litio fabricadas en la fábrica de Suminoe, Japón.
+
+El 7 de enero de 2010 Tesla Motors y Panasonic anunciaron que colaborarían en la nueva generación de baterías de iones de litio basadas en el modelo 18650 para vehículos eléctricos.127​ El acuerdo es parte de una inversión de Panasonic de 1000 millones de dólares en 3 años para investigación, desarrollo y producción de baterías de iones de litio. Tesla podrá seguir usando baterías de otros suministradores.128​
+
+En abril de 2010 el presidente de Panasonic Energy Company Naoto Noguchi presentó a JB Straubel, CTO de Tesla las primeras baterías de iones de litio producidas en la nueva fábrica de Suminoe, Japón. Esta fábrica comenzó la producción de baterías de 3,1 Ah, que tenían la mayor densidad de energía del mercado en ese momento. La fábrica produce más de 300 millones de baterías al año.129​
+
+El 5 de noviembre de 2010 Panasonic invirtió 30 millones de dólares en Tesla Motors con el objetivo de acelerar la expansión del vehículo eléctrico en el mercado del automóvil.130​ Panasonic es suministrador de baterías para los paquetes de baterías de Tesla Motors. En octubre de 2011 ambos acordaron el suministro de baterías para más de 80 000 vehículos en 4 años. En noviembre de 2010 Tesla Motors vendió 1 418 573 acciones a Panasonic Corporation a un precio de 21,15 por acción.8​
+Conflictos
+Fisker Automotive
+
+El 14 de abril de 2008 Tesla Motors demandó a Fisker Automotive alegando que Henrik Fisker robó ideas de diseño e información confidencial relativa al diseño de coches eléctricos e híbridos y que estaba usando esa información para el desarrollo del Fisker Karma, que había sido presentado en enero de 2008 en el North American International Auto Show. Tesla había contratado a Fisker Coachbuild y le pagó 800 000 USD para el diseño de carrocería e interiores del sedán WhiteStar (Tesla Model S) pero Elon Musk canceló el diseño propuesto por ser inferior (substandard) a lo contratado. En la fecha del contrato Fisker no comunicó a Tesla que estaba trabajando en un híbrido similar al Tesla Model S.131​132​
+
+El 3 de noviembre de 2008 Fisker Automotive Inc. publicó un comunicado de prensa afirmando que un árbitro había emitido un laudo a favor de Fisker Automotive Inc. y en contra de Tesla Motors.133​ Tesla dijo que el laudo era vinculante y no continuaría con el caso.133​
+Magna International
+
+En marzo de 2008 Magna International demandó a Tesla Motors 5,6 millones de dólares por no haber recibido el pago por los servicios prestados en el diseño de una transmisión para el Tesla Roadster. Tesla volvió a un diseño anterior de transmisión fabricada por X-Trac en el que la primera marcha fue retirada en los Roadster de serie.134​
+Fundadores de Tesla Motors
+
+El 26 de mayo de 2009 Martin Eberhard presentó una demanda contra Elon Musk por calumnia, difamación, incumplimiento de contrato y sobre quiénes podían llamarse fundadores de Tesla Motors.135​
+
+El juez de San Mateo County Superior Court falló que Tesla Motors fue creada por un equipo de fundadores: Elon Musk, JB Straubel, Martin Eberhard, Marc Tarpenning, e Ian Wright.136​
+Top Gear
+
+Tesla Motors demandó por falsedad maliciosa y libelo al programa de coches de la BBC Top Gear en relación al episodio de 2008 en el que Jeremy Clarkson se quejaba de una autonomía de solo 55 millas (89 km) del Tesla Roadster antes de mostrar cómo empujaban el coche hacia el garaje supuestamente por agotamiento de las baterías. Tesla Motors afirmó que ninguno de los dos Tesla Roadster usados bajó de un 20% en la capacidad de la batería durante las pruebas de Top Gear, y que la escena fue guionizada de antemano.
+
+Clarkson también afirmó que había sufrido un fallo de frenos cuando era un fusible fundido según Tesla, y que un recalentamiento del motor eléctrico lo hizo pararse cuando no hubo tal calentamiento según Tesla.137​
+
+El 19 de octubre de 2011 la High Court de Londres rechazó la demanda de libelo argumentando que Top Gear era un programa de entretenimiento.138​
+Véase también
+
+    Gigafábrica 1 de Tesla
+    Gigafábrica 2 de Tesla
+    Gigafábrica 3 de Tesla
+    Automóviles eléctricos en venta
+    Estación de recarga
+    Elon Musk
+    JB Straubel
+    Panasonic
+    Solar City
+    Tesla Model Y
+    Tesla Model 3
+    Tesla Model X
+    Tesla Model S
+    Tesla Roadster
+    Who Killed the Electric Car?
+
+Referencias
+
+«Tesla 2020 Proxy statement». sec.gov. Consultado el 28 de octubre de 2020.
+«Annual report Form 10-K 2019 Tesla Inc.». U.S. Securities and Exchange Commission. 31 de diciembre de 2019. Consultado el 28 de octubre de 2020.
+«Origen de la compañía».
+Alttransport.com, ed. (14 de setiembre de 2010). «Tesla and Toyota’s RAV4 EV And Now A Tesla-Daimler Partnership – AltTransport: Your Guide to Smarter Ways of Getting Around». Archivado desde el original el 8 de marzo de 2012. Consultado el 20 de noviembre de 2011.
+Tesla Motors (ed.). «Why the Name "Tesla"?». Archivado desde el original el 11 de mayo de 2008. Consultado el 10 de junio de 2008.
+LaMonica, Martin. «Tesla Motors founders: Now there are five». CNET (en inglés). Consultado el 29 de octubre de 2020.
+Vance (2016). «7». Elon Musk. p. 177. ISBN 978-958-42-5914-1.
+SEC, ed. (27 de febrero de 2012). «ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2011» (en inglés). Consultado el 16 de agosto de 2012.
+Martin Eberhard (7 de agosto de 2007). «Martin Eberhard of Tesla Motors speaks to the Motor Press Guild» (Flash video). Archivado desde el original el 14 de diciembre de 2011. Consultado el 12 de agosto de 2012.
+«All Our Patent Are Belong To You». 12 de junio de 2014. Consultado el 12 de junio de 2014.
+Tesla Motors, ed. (1 de abril de 2016). «Model 3 Unveil Event» (en inglés). Consultado el 1 de abril de 2016.
+«El creciente impacto de Tesla y Elon Musk en el mundo de los automóviles». 11 de junio de 2017. Consultado el 12 de junio de 2017.
+Musk, Elon. Tesla Motors, ed. «CEO Elon Musk». Consultado el 20 de octubre de 2010.
+Eberhard, Martin (25 de julio de 2006). Tesla Motors, ed. «Lotus Position | Blog». Consultado el 12 de agosto de 2012.
+NPR (ed.). «Making a Mark with Rockets and Roadsters». Consultado el 20 de noviembre de 2011.
+Musk, Elon (2 de agosto de 2006). Tesla Motors, ed. «The Secret Tesla Motors Master Plan (just between you and me) | Blog». Consultado el 3 de octubre de 2010.
+Tesla Motors (ed.). «Tesla Motors team».
+Index, ed. (2007). «Tesla Roadster». Archivado desde el original el 29 de junio de 2012. Consultado el 12 de agosto de 2012.
+Ohnsman, Alan (19 de enero de 2009). Bloomberg.com, ed. «Detroit Auto No-Shows Put Startups Fisker, Tesla in Spotlight». Consultado el 12 de agosto de 2012.
+John Reed (25 de julio de 2009). «FT:Elon Musk’s ground-breaking electric car». Consultado el 12 de agosto de 2012.
+Anita Lienert (11 de enero de 2008). Edmund's Inside Line, ed. «"Stealth Bloodbath" Roils Tesla Motors». Consultado el 12 de agosto de 2012.
+Tesla Motors, ed. (19 de mayo de 2009). «Strategic partnership: Daimler acquires stake in Tesla». Consultado el 12 de agosto de 2012.
+Lambert, Fred (6 de febrero de 2019). Electrek, ed. «Tesla and Mercedes-Benz have been holding ‘talks’ about collaborating again, says Daimler CEO» (en inglés). Consultado el 11 de febrero de 2019.
+Reuters, ed. (13 de julio de 2009). «UAE'S Aabar buys 40 pct of Daimler's Tesla stake». Consultado el 12 de agosto de 2012.
+Driving Today, ed. (17 de septiembre de 2009). «Tesla Motors Bags Federal Cash». Archivado desde el original el 28 de mayo de 2016. Consultado el 12 de agosto de 2012.
+Pacific Business News, ed. (24 de junio de 2009). «Tesla gets long-awaited government loan». Consultado el 12 de agosto de 2012.
+Rao, Leena (15 de septiembre de 2009). Techcrunch.com, ed. «Tesla Puts Another 82.5 Million In The Tank». Consultado el 12 de agosto de 2012.
+OneCLE, ed. (11 de julio de 2005). «Supply agreement for products and services based on Lotus Elise technology». Consultado el 12 de agosto de 2012.
+edgar-online.com, ed. (22 de marzo de 2010). «Contract Amendment 2». Archivado desde el original el 20 de octubre de 2013. Consultado el 12 de agosto de 2012.
+Sec.gov (ed.). «Amendment No. 1 to Registration Statement on Form S-1». Consultado el 28 de junio de 2010.
+«Toyota investing in Tesla Motors». BBC News. 21 de mayo de 2010. Consultado el 12 de agosto de 2012.
+Matt Andrejczak (28 de junio de 2010). MarketWatch, ed. «Tesla Motors revs up $244 million IPO». Consultado el 12 de agosto de 2012.
+«nasdaq TSLA» (en inglés). 28 de agosto de 2013. Consultado el 28 de agosto de 2013.
+«El fabricante de coches eléctricos Tesla ya vale más en Bolsa que Ford Motor». 2017. Consultado el 2017.
+«Kantar - Ranking de las marcas de coches más valiosas en 2017». www.es.kantar.com. Consultado el 23 de agosto de 2017.
+Director de un fondo de cobertura: "Tesla sin duda entrará en bancarrota"
+Tesla suspende la producción de su coche eléctrico Model 3 por segunda vez
+McGee, Patrick (23 de julio de 2020). «Tesla shares jump after fourth quarterly profit in a row». Financial Times. Consultado el 23 de julio de 2020.
+«Tesla Motors Spotlight: Brand Strategy & Marketing». 5 de julio de 2007. Consultado el 14 de agosto de 2009.
+GreenCar Magazine, ed. (9 de setiembre de 2009). «Tesla Motors Moving Quickly to Commercialization of an Electric Car». Archivado desde el original el 13 de julio de 2009. Consultado el 1 de agosto de 2009.
+Tesla Motors, ed. (6 de julio de 2007). «well-to-wheel». Archivado desde el original el 18 de febrero de 2009. Consultado el 1 de agosto de 2009.
+«Tesla Updates Iconic Roadster for 2012 in Limited Markets». Consultado el 7 de abril de 2012.
+Time (ed.). «Best Inventions Of 2006» (en inglés). Time. Consultado el 11 de agosto de 2012.
+Dillow, Clay (23 de junio de 2011). Popsci.com, ed. «Farewell Roadster: Tesla Will Stop Taking Orders for its Iconic EV in Two Months | Popular Science». Consultado el 11 de agosto de 2012.
+Michaels, Daniel (14 de enero de 2010). «Long-Dead Inventor Nikola Tesla Is Electrifying Hip Techies». The Wall Street Journal.
+TreeHugger (ed.). «Motor Trend: 2010 Tesla Roadster Sport vs. 2011 Porsche Boxster Spyder (Video)». Consultado el 3 de octubre de 2010.
+Elon Musk (9 de febrero de 2012). Tesla Motors, ed. Tesla Unveils Model X. Tesla Motors Design Studio, Hawthorne, California. Escena en 11:00.
+Josie Garthwaite (6 de mayo de 2011). «Tesla Prepares for a Gap as Roadster Winds Down». The New York Times. Consultado el 7 de mayo de 2011.
+Tesla Motors (ed.). «Model S Facts». Archivado desde el original el 5 de noviembre de 2013. Consultado el 17 de enero de 2012.
+Tesla Motors (ed.). «Model S Specs». Consultado el 17 de enero de 2012.
+Tesla Motors, ed. (26 de noviembre de 2014). «Tesla Model S Options». Consultado el 26 de noviembre de 2014.
+Tesla Motors, ed. (23 de junio de 2015). «Tesla drivers passed 1 billion electric miles.» (en inglés). Consultado el 30 de junio de 2015.
+Elon Musk, via Twitter (ed.). «Tesla Model X, fecha de entregas». Consultado el 3 de agosto de 2015.
+Tesla Motors (ed.). «Tesla Model X». Consultado el 3 de diciembre de 2014.
+Xataka (ed.). «La nueva batería de Tesla hará que sus coches sean los eléctricos más rápidos del mundo». Consultado el 23 de agosto de 2016.
+Wert, Ray (20 de febrero de 2007). Jalopnik.com, ed. «Darryl Siry responds to rumor on Jalopnik forum». Consultado el 27 de noviembre de 2010.
+CELEBScom, ed. (13 de febrero de 2012). Tesla Motors Chief Designer Franz von Holzhausen at the launch of the X. Consultado el 21 de julio de 2012.
+Tesla Motors, ed. (30 de diciembre de 2015). «Tesla Model X Options». Consultado el 30 de diciembre de 2015.
+Tesla Motors, ed. (29 de julio de 2017). «First Model 3 Handovers» (en inglés). Consultado el 29 de julio de 2017.
+Hull, Dana (7 de abril de 2016). Bloomberg, ed. «Tesla Says It Received More Than 325,000 Model 3 Reservations» (en inglés). Consultado el 9 de abril de 2016.
+Covert, James (6 de abril de 2016). The New York Post, ed. «Elon Musk’s sex obsession fuels Tesla design» (en inglés). Consultado el 9 de abril de 2016.
+Tesla, Inc., ed. (29 de julio de 2017). «PTesla Press Information» (en inglés). Consultado el 29 de julio de 2017.
+fueleconomy.gov (ed.). «Tesla Model 3» (en inglés). Consultado el 29 de octubre de 2018.
+«New Tesla Model Y compact SUV teased ahead of March 14 reveal». Auto Express (en inglés). Consultado el 15 de marzo de 2019.
+Hawkins, Andrew J. (2 de agosto de 2017). «Tesla shifts focus to bring Model Y to market faster». The Verge. Consultado el 15 de marzo de 2019.
+Barco, Luis del (14 de marzo de 2019). «Tesla Model Y: todo lo que sabemos del nuevo SUV eléctrico». Hipertextual. Consultado el 15 de marzo de 2019.
+Lambert, Fred (13 de marzo de 2020). «Tesla officially starts Model Y deliveries». Electrek (en inglés estadounidense). Consultado el 28 de marzo de 2020.
+Lambert, Fred (14 de marzo de 2019). Electrek, ed. «Tesla unveils Model Y electric SUV with 300 miles range and 7-seats» (en inglés). Consultado el 19 de marzo de 2019.
+«Tesla destapa el Model Y 2019: su nuevo bombazo eléctrico es un SUV compacto de 7 plazas». Diariomotor. Consultado el 15 de marzo de 2019.
+Camós, Josep (15 de marzo de 2019). «Tesla Model Y: un coche eléctrico que se suma a la fiebre SUV con 483 km de autonomía, desde 39.000 dólares». Motorpasion. Consultado el 15 de marzo de 2019.
+https://www.forbes.com/sites/alistaircharlton/2021/01/31/the-tesla-roadster-has-been-delayed-again-this-time-until-2022/?sh=65a880215627
+https://www.cnbc.com/2020/04/29/tesla-delays-semi-production-and-deliveries-until-2021.html
+Página oficial de Tesla
+Twitter de Elon Musk.
+ForoCochesEléctricos (ed.). «La batería de Tesla para el hogar». Consultado el 7 de mayo de 2015.
+Digital Trends (ed.). «Tesla Powerwall aumenta sus potencias» (en inglés). Consultado el 12 de junio de 2015.
+Tesla Motors (ed.). «Tesla Powerwall» (en inglés). Consultado el 7 de mayo de 2015.
+Every Elon Musk Video, ed. (28 de octubre de 2016). «Elon Musk unveils Solar Roof (2016.10.28)» (en inglés). Consultado el 10 de noviembre de 2016.
+Tesla Motors, ed. (2 de mayo de 2015). «Tesla introduces Tesla Energy» (en inglés). Consultado el 9 de mayo de 2015.
+Xataka (ed.). «El futuro de Tesla se vislumbra grandioso: 38.000 reservas para Powerwall y fecha para Model 3». Consultado el 7 de mayo de 2015.
+La Republica NET (ed.). «Batería de Tesla obtuvo $800 millones en su primera semana». Consultado el 13 de mayo de 2015.
+ForoCochesEléctricos (ed.). «La demanda de baterías para el hogar de Tesla desborda las mejores expectativas». Consultado el 10 de agosto de 2015.
+Tesla, ed. (1 de abril de 2018). «Tesla First Quarter 2018 Update» (en inglés). Archivado desde el original el 15 de mayo de 2018. Consultado el 14 de mayo de 2018.
+The Daily Green, ed. (3 de septiembre de 2010). «Mercedes Electric Car by Tesla Test Drive - Video Tesla Mercedes A Class». Consultado el 3 de octubre de 2010.
+SEC, ed. (7 de noviembre de 2014). «FORM 10-Q 2014 3Q» (en inglés). Archivado desde el original el 18 de enero de 2015. Consultado el 17 de enero de 2015.
+Squatriglia, Chuck (13 de enero de 2009). Wired.com, ed. «Tesla Motors Joins Daimler On a Smart EV | Autopia». Consultado el 11 de agosto de 2012.
+thestreet.com (ed.). «Tesla Motors Reports Fourth Quarter And Full Year 2010 Results» (en inglés). Archivado desde el original el 27 de julio de 2018. Consultado el 11 de agosto de 2012.
+Abuelsamid, Sam (16 de julio de 2010). Green.autoblog.com, ed. «Breaking: Tesla and Toyota to develop RAV4 EV, hope to launch in 2012 — Autoblog Green». Consultado el 19 de julio de 2010.
+Jerry Garrett (3 de agosto de 2012). «Toyota and Tesla Trot Out the RAV4 EV». The New York Times. Consultado el 11 de agosto de 2012.
+«2012 Toyota RAV4 EV - Toyota and Tesla». 31 de julio de 2007. Consultado el 14 de agosto de 2009.
+Freightliner Custom Chassis (ed.). «All-Electric Chassis» (en inglés). Archivado desde el original el 28 de abril de 2012. Consultado el 13 de agosto de 2012.
+National Public Radio, ed. (26 de marzo de 2010). «The End Of The Line For GM-Toyota Joint Venture». All Things Considered. Consultado el 7 de abril de 2010.
+This American Life, ed. (26 de marzo de 2010). «Episode 403 - NUMMI». Consultado el 7 de abril de 2010.
+PUI-WING TAM (21 de octubre de 2010). «Idle Fremont Plant Gears Up for Tesla». Wall Street Journal. Consultado el 3 de abril de 2011.
+Tesla Motors, ed. (27 de octubre de 2010). «Tesla Motors Opens Tesla Factory - Home of the Model S». Consultado el 18 de julio de 2012.
+John Boudreau (22 de junio de 2012). «In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars». San Jose Mercury News. Consultado el 22 de junio de 2012.
+«The Car of the Future». 2012. Consultado el 7 de abril de 2012.
+Frank Markus (22 de junio de 2012). «2012 Tesla Model S First Drive». Motor Trend. Consultado el 21 de julio de 2012.
+National Geographic (ed.). «Tesla Model S - Supercars 2011» (en inglés). Consultado el 2 de diciembre de 2012.
+Technological Vehicles, ed. (22 de junio de 2012). «Tesla Model S first customer delivery - live event». Consultado el 22 de junio de 2012.
+«Elon Musk and JB Straubel share their vision on energy (6.8.15)» (en inglés). 8 de junio de 2015. Consultado el 10 de octubre de 2015.
+Nevada a Winner in Tesla’s Battery Contest
+Wesoff, Eric (3 de septiembre de 2014). Greentechmedia, ed. «Reports: Tesla Selects Nevada as Giga Battery Factory Site» (en inglés). Consultado el 8 de septiembre de 2014.
+Cuthbertson, Anthony (20 de marzo de 2014). IBT, ed. «Tesla to Create World's Largest Lithium-ion Battery Factory». Consultado el 12 de junio de 2014.
+teslamotors.com (ed.). «Gigafactory | Blog | Tesla Motors». Consultado el 9 de septiembre de 2014.
+«Planned 2020 Gigafactory Production Exceeds 2013 Global Production». 26 de febrero de 2014. Consultado el 5 de junio de 2014.
+Tesla Gigafactory Announcement. Tesla Motors. Consultado el 9 de septiembre de 2014.
+Tesla Motors, ed. (4 de septiembre de 2014). «Nevada Selected As Official Site for Tesla Battery Gigafactory» (en inglés). Consultado el 9 de septiembre de 2014.
+Robinson, David (31 de agosto de 2017). The Buffalo News, ed. «6 things to watch as Panasonic gears up to start production». Consultado el 4 de septiembre de 2017.
+Dow, Jameson (22 de febrero de 2017). «Tesla christens Buffalo solar factory ‘Gigafactory 2’, will finalize ubicacións of Gigafactory 3, 4 and possibly 5 this año». Electrek. Consultado el 24 de junio de 2018.
+Alan Ohnsman (10 de julio de 2018). Forbes.com, ed. «How Is Musk Going To Pay For Tesla's Chinese Gigafactory?».
+上海达恩贝拉环境科技发展有限公司 (24 de octubre de 2018). 上海市环境保护宣传教育中心, ed. «特斯拉上海超级工厂项目(一期)环境影响评价公示» [Tesla (Shanghai) Gigafactory Project (Phase 1) Environmental Impact Assessment Publicity] (en chino). Archivado desde el original el 24 de octubre de 2018. Consultado el 24 de octubre de 2018.
+La Gigafábrica 4 de Tesla se construirá en Berlín y comenzará a fabricar el Model Y a finales de 2021.
+Se confirma oficialmente que la nueva Gigafábrica de Tesla estará en Austin, Texas
+autoblog.com, ed. (8 de julio de 2010). «Tesla hires former Apple retail strategist to revolutionize buying experience». Consultado el 11 de agosto de 2012.
+Tesla Motors (ed.). «Model S Specs». Archivado desde el original el 22 de julio de 2012. Consultado el 12 de agosto de 2012.
+Tesla Motors, ed. (24 de abril de 2014). «100 Supercharger Stations» (en inglés). Consultado el 4 de mayo de 2014.
+Tesla Motors, ed. (24 de noviembre de 2017). «100 Supercharger Stations» (en inglés). Consultado el 4 de noviembre de 2017.
+Lambert, Fred (3 de marzo de 2019). Electrek, ed. «Tesla is launching new Supercharger V3 this week, says Elon Musk» (en inglés). Consultado el 30 de marzo de 2019.
+Lambert, Fred (6 de marzo de 2019). Electrek, ed. «Tesla launches new Supercharger with 1,000 mph charging, better efficiency, and more» (en inglés). Consultado el 30 de marzo de 2019.
+* Adaptador de chademo a Tesla
+Tesla Motors, ed. (20 de junio de 2013). «Battery Swap» (en inglés). Archivado desde el original el 9 de noviembre de 2013. Consultado el 26 de junio de 2013.
+Tesla Motors, ed. (19 de diciembre de 2014). «Battery Swap Pilot Program» (en inglés). Consultado el 17 de enero de 2015.
+«Elon Musk habla de la estación de cambio de baterías de Tesla». Consultado el 8 de enero de 2015.
+Musk, Elon (12 de junio de 2014). Tesla Motors, ed. «All Our Patent Are Belong To You» (en inglés).
+Wot.motortrend.com (ed.). «Tesla Motors to Provide Batteries for Freightliner Custom Chassis Electric Van - WOT on Motor Trend». Consultado el 11 de agosto de 2012.
+Gupta, Poornima (7 de enero de 2010). «Tesla, Panasonic partner on electric car batteries». Reuters.
+Gigaom.com, ed. (7 de enero de 2010). «Tesla & Panasonic Make It Official, Buddy Up for Batteries: Cleantech News «». Consultado el 12 de agosto de 2012.
+Tesla Motors (22 de abril de 2010). Tesla Motors, ed. «Panasonic Presents First Electric Vehicle Battery to Tesla | Press Releases». Consultado el 3 de octubre de 2010.
+«Panasonic invests $30m in Tesla». Added latest investment in tesla. Consultado el 12 de agosto de 2012.
+Jeremy Korzeniewski (15 de abril de 2008). Autoblog.com, ed. «Tesla files suit against Fisker Automotive». Consultado el 20 de agosto de 2012.
+Migliore, Greg (16 de abril de 2008). «Tesla sues Fisker, alleges theft of trade secrets». AutoWeek: News & Views. Archivado desde el original el 21 de mayo de 2008. Consultado el 16 de abril de 2008.
+Martin LaMonica (4 de noviembre de 2008). CNET News, ed. «Tesla Motors loses trade secrets case against Fisker». Consultado el 27 de septiembre de 2009.
+Dan Roth (16 de abril de 2008). Autoblog.com, ed. «Tables Turned: Tesla Motors Sued By Transmission Supplier Magna».
+Fehrenbacher, Katie (14 de junio de 2009). Earth2tech.com, ed. «Tesla Lawsuit: The Incredible Importance of Being a Founder». Archivado desde el original el 23 de julio de 2010. Consultado el 20 de agosto de 2012.
+Tesla Motors, ed. (29 de julio de 2009). «Judge strikes claim on who can be declared a founder of Tesla Motors» (en inglés). Consultado el 21 de agosto de 2012.
+Adam Vaughan (30 de marzo de 2011). «Tesla sues Top Gear over 'faked' electric car race | Environment». Londres: guardian.co.uk. Consultado el 21 de agosto de 2012.
+The Independent, ed. (21 de octubre de 2011). «Tesla losing Top Gear court challenge». Consultado el 21 de agosto de 2012.
